@@ -10,4 +10,4 @@ cd module
 
 sudo chmod +rx setup.sh
 
-./setup.sh
+bash setup.sh
