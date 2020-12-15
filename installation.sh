@@ -8,6 +8,6 @@ sudo git clone https://github.com/tonikerttula/module.git
 
 cd module
 
-sudo chmod ugo+rx setup.sh
+sudo chmod +rx setup.sh
 
 ./setup.sh
